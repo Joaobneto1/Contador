@@ -10,7 +10,7 @@ Este é um projeto de um contador de numeros podendo aumentar, diminuir e reseta
 - Estará lá o contador para usar de sua maneira.
 
 ## Funcionamento do Contador
-![Uploading Contador-funcionado.gif…]()
+![Contador-funcionado](https://github.com/Joaobneto1/Contador/assets/126587508/91237c68-31f2-4789-a266-c87665b462ed)
 
 ## Video ensinando a fazer o contador e usado como base:
 - Minuto (30:25)
