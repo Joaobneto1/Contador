@@ -13,5 +13,5 @@ Este é um projeto de um contador de numeros podendo aumentar, diminuir e reseta
 https://github.com/Joaobneto1/Contador/assets/126587508/fd4fc9b7-bf2d-45de-9006-47badacda181
 
 ## Video ensinando a fazer o contador e usado como base:
-
+- Minuto (30:25)
 https://www.youtube.com/watch?v=3PHXvlpOkf4&t=1825s
